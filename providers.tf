@@ -8,6 +8,7 @@ provider "aws" {
   default_tags {
     tags = {
       managed_by = "AFT"
+      auto-delete = "no"
     }
   }
 }
@@ -22,6 +23,7 @@ provider "aws" {
   default_tags {
     tags = {
       managed_by = "AFT"
+      auto-delete = "no"
     }
   }
 }
@@ -35,6 +37,7 @@ provider "aws" {
   default_tags {
     tags = {
       managed_by = "AFT"
+      auto-delete = "no"
     }
   }
 }
@@ -48,6 +51,7 @@ provider "aws" {
   default_tags {
     tags = {
       managed_by = "AFT"
+      auto-delete = "no"
     }
   }
 }
@@ -61,6 +65,7 @@ provider "aws" {
   default_tags {
     tags = {
       managed_by = "AFT"
+      auto-delete = "no"
     }
   }
 }
